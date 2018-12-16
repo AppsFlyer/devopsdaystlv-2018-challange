@@ -1,0 +1,2000 @@
+Janis Randall:
+ first: KingGeorge
+ second: Gutte
+ third: Liv
+George Bush:
+ first: McDonalds
+ second: Zozobra
+ third: HumusEliahu
+Eddie Koch:
+ first: ObanKoban
+ second: MeatBarExpress
+ third: Jems
+Fernando Wang:
+ first: Giraffe
+ second: MeatBarExpress
+ third: KingGeorge
+Keith Winn:
+ first: MiCasa
+ second: HumusEliahu
+ third: Zozobra
+Diane Anderson:
+ first: MeatBarExpress
+ second: HumusEliahu
+ third: McDonalds
+Scott Lamay:
+ first: McDonalds
+ second: Jems
+ third: Liv
+Guy Alt:
+ first: Jems
+ second: MeatBarExpress
+ third: Gutte
+Stephanie Laughman:
+ first: MiCasa
+ second: MeatBarExpress
+ third: Liv
+Ariane Arguellez:
+ first: KingGeorge
+ second: Gutte
+ third: Jems
+Donald Clewis:
+ first: McDonalds
+ second: Giraffe
+ third: ObanKoban
+Edgar Sherman:
+ first: KingGeorge
+ second: HumusEliahu
+ third: McDonalds
+Josue Ferrel:
+ first: MeatBarExpress
+ second: MiCasa
+ third: Zozobra
+Mercedes Negbenebor:
+ first: MeatBarExpress
+ second: KingGeorge
+ third: Jems
+James Withers:
+ first: HumusEliahu
+ second: ObanKoban
+ third: MeatBarExpress
+Timothy Gailey:
+ first: ObanKoban
+ second: MeatBarExpress
+ third: McDonalds
+Mary Norsaganay:
+ first: Jems
+ second: HumusEliahu
+ third: Giraffe
+Kelly Williams:
+ first: McDonalds
+ second: MiCasa
+ third: Jems
+Valerie Hirth:
+ first: McDonalds
+ second: Liv
+ third: Jems
+Joshua Fetterhoff:
+ first: KingGeorge
+ second: McDonalds
+ third: ObanKoban
+Jacob Rivera:
+ first: MeatBarExpress
+ second: ObanKoban
+ third: Giraffe
+Eric Dingell:
+ first: HumusEliahu
+ second: Liv
+ third: Jems
+Joyce Greene:
+ first: McDonalds
+ second: Jems
+ third: Giraffe
+Laura Polanco:
+ first: MeatBarExpress
+ second: Jems
+ third: Giraffe
+Carolina Pitcak:
+ first: Gutte
+ second: MiCasa
+ third: HumusEliahu
+Gail Peak:
+ first: Jems
+ second: MeatBarExpress
+ third: Giraffe
+Maryann Fitzpatrick:
+ first: Liv
+ second: KingGeorge
+ third: Giraffe
+John Lugo:
+ first: ObanKoban
+ second: MeatBarExpress
+ third: Zozobra
+Dean George:
+ first: KingGeorge
+ second: Giraffe
+ third: Jems
+David Carroll:
+ first: Liv
+ second: Jems
+ third: Giraffe
+James Huffman:
+ first: Gutte
+ second: MeatBarExpress
+ third: MiCasa
+Helen Michaux:
+ first: Zozobra
+ second: HumusEliahu
+ third: Liv
+Anna Murphy:
+ first: Liv
+ second: Gutte
+ third: KingGeorge
+Delinda Miraglia:
+ first: MeatBarExpress
+ second: ObanKoban
+ third: Giraffe
+Anthony Verdi:
+ first: Giraffe
+ second: McDonalds
+ third: MiCasa
+Fern Miller:
+ first: McDonalds
+ second: Liv
+ third: MiCasa
+Eileen Kelly:
+ first: ObanKoban
+ second: Liv
+ third: McDonalds
+John Johnson:
+ first: ObanKoban
+ second: Giraffe
+ third: MeatBarExpress
+Erica Jones:
+ first: Giraffe
+ second: Jems
+ third: HumusEliahu
+Melanie Ambrose:
+ first: ObanKoban
+ second: Zozobra
+ third: KingGeorge
+Mary Anaya:
+ first: ObanKoban
+ second: Gutte
+ third: Giraffe
+Robert Macfarland:
+ first: Jems
+ second: Zozobra
+ third: MiCasa
+Michael Wisniewski:
+ first: Zozobra
+ second: HumusEliahu
+ third: ObanKoban
+Estelle Jensen:
+ first: Liv
+ second: MiCasa
+ third: MeatBarExpress
+Brian Bell:
+ first: KingGeorge
+ second: HumusEliahu
+ third: Giraffe
+Antonio Barretto:
+ first: MiCasa
+ second: ObanKoban
+ third: KingGeorge
+Hyman Baker:
+ first: ObanKoban
+ second: McDonalds
+ third: MiCasa
+Clifford Craft:
+ first: Liv
+ second: MiCasa
+ third: HumusEliahu
+James Hill:
+ first: MiCasa
+ second: KingGeorge
+ third: Gutte
+Denise Lado:
+ first: MeatBarExpress
+ second: MiCasa
+ third: McDonalds
+Keith Noland:
+ first: HumusEliahu
+ second: Zozobra
+ third: Liv
+Angela Haack:
+ first: Giraffe
+ second: HumusEliahu
+ third: Gutte
+Shane Schuster:
+ first: Gutte
+ second: KingGeorge
+ third: HumusEliahu
+Brenda Warden:
+ first: ObanKoban
+ second: Liv
+ third: KingGeorge
+Sarah Hunsaker:
+ first: KingGeorge
+ second: HumusEliahu
+ third: MiCasa
+Yesenia Avila:
+ first: ObanKoban
+ second: KingGeorge
+ third: Liv
+John Chavez:
+ first: HumusEliahu
+ second: MiCasa
+ third: Zozobra
+Carolyn Ackerman:
+ first: Gutte
+ second: Zozobra
+ third: Giraffe
+Adam Grubb:
+ first: KingGeorge
+ second: Gutte
+ third: McDonalds
+Greg Posey:
+ first: MeatBarExpress
+ second: McDonalds
+ third: Zozobra
+Timothy Mckinley:
+ first: KingGeorge
+ second: Gutte
+ third: ObanKoban
+Logan Durk:
+ first: MiCasa
+ second: Jems
+ third: McDonalds
+Deanna Stewart:
+ first: KingGeorge
+ second: Jems
+ third: MeatBarExpress
+Linda Delaine:
+ first: MeatBarExpress
+ second: McDonalds
+ third: KingGeorge
+Terra Scharf:
+ first: MiCasa
+ second: ObanKoban
+ third: McDonalds
+Teresa Herms:
+ first: HumusEliahu
+ second: Giraffe
+ third: ObanKoban
+Julia Mccarthy:
+ first: HumusEliahu
+ second: MeatBarExpress
+ third: MiCasa
+Andrea Tavarez:
+ first: Gutte
+ second: ObanKoban
+ third: HumusEliahu
+Tony Rhodd:
+ first: ObanKoban
+ second: Jems
+ third: MeatBarExpress
+Jim Stringer:
+ first: Gutte
+ second: MeatBarExpress
+ third: Giraffe
+Larry Satterwhite:
+ first: HumusEliahu
+ second: Zozobra
+ third: ObanKoban
+Tanya Ellis:
+ first: HumusEliahu
+ second: McDonalds
+ third: Zozobra
+Thomas Mcneil:
+ first: MiCasa
+ second: Zozobra
+ third: Liv
+Martha Tripp:
+ first: Jems
+ second: KingGeorge
+ third: Zozobra
+Michelle Ball:
+ first: Gutte
+ second: McDonalds
+ third: Jems
+Ashley Lopez:
+ first: Gutte
+ second: Jems
+ third: HumusEliahu
+Carol Carlisle:
+ first: Liv
+ second: MiCasa
+ third: MeatBarExpress
+Nellie Flores:
+ first: HumusEliahu
+ second: Giraffe
+ third: Gutte
+Norman Houston:
+ first: Zozobra
+ second: MeatBarExpress
+ third: Jems
+Eddie Kaminski:
+ first: McDonalds
+ second: MiCasa
+ third: Gutte
+Katheryn Cornell:
+ first: McDonalds
+ second: HumusEliahu
+ third: Gutte
+Shirley Richardson:
+ first: Jems
+ second: Liv
+ third: Gutte
+John Vollmer:
+ first: ObanKoban
+ second: MiCasa
+ third: Liv
+Carl Schlitz:
+ first: ObanKoban
+ second: McDonalds
+ third: MeatBarExpress
+George Pomrenke:
+ first: Jems
+ second: MiCasa
+ third: MeatBarExpress
+Ella Shyne:
+ first: Liv
+ second: MeatBarExpress
+ third: Giraffe
+Dianne Applebee:
+ first: Zozobra
+ second: McDonalds
+ third: HumusEliahu
+Megan Frazier:
+ first: MiCasa
+ second: McDonalds
+ third: HumusEliahu
+Ruth Ackley:
+ first: McDonalds
+ second: Liv
+ third: HumusEliahu
+Richard Sanchez:
+ first: HumusEliahu
+ second: MeatBarExpress
+ third: KingGeorge
+Alvin Clay:
+ first: Giraffe
+ second: KingGeorge
+ third: McDonalds
+Felicita Gray:
+ first: MeatBarExpress
+ second: Zozobra
+ third: HumusEliahu
+Jane Kuehnle:
+ first: Liv
+ second: Zozobra
+ third: KingGeorge
+Edward Hicks:
+ first: Zozobra
+ second: McDonalds
+ third: Giraffe
+John Chaves:
+ first: Gutte
+ second: McDonalds
+ third: MeatBarExpress
+Jamie Bencomo:
+ first: MeatBarExpress
+ second: KingGeorge
+ third: Jems
+Alfreda Nguyen:
+ first: Gutte
+ second: MiCasa
+ third: MeatBarExpress
+Cassandra Ramirez:
+ first: KingGeorge
+ second: MiCasa
+ third: ObanKoban
+Pedro Peters:
+ first: MeatBarExpress
+ second: MiCasa
+ third: Liv
+Dorothy Lane:
+ first: KingGeorge
+ second: MeatBarExpress
+ third: Liv
+Lora Williamson:
+ first: Zozobra
+ second: Giraffe
+ third: HumusEliahu
+Douglas Kaplan:
+ first: MeatBarExpress
+ second: Gutte
+ third: Zozobra
+David Clark:
+ first: HumusEliahu
+ second: Giraffe
+ third: Liv
+Trevor Gertz:
+ first: Zozobra
+ second: MeatBarExpress
+ third: ObanKoban
+Regina Weir:
+ first: HumusEliahu
+ second: ObanKoban
+ third: McDonalds
+Carol Hughes:
+ first: HumusEliahu
+ second: KingGeorge
+ third: Giraffe
+Victoria Tornquist:
+ first: ObanKoban
+ second: KingGeorge
+ third: MiCasa
+Lillian Landi:
+ first: Liv
+ second: KingGeorge
+ third: MeatBarExpress
+Johnny Gill:
+ first: McDonalds
+ second: Zozobra
+ third: MiCasa
+Steven Tronaas:
+ first: HumusEliahu
+ second: MiCasa
+ third: MeatBarExpress
+Curtis Phillip:
+ first: Zozobra
+ second: Jems
+ third: HumusEliahu
+Heather Tolbert:
+ first: Jems
+ second: Giraffe
+ third: ObanKoban
+Maria Ford:
+ first: Jems
+ second: McDonalds
+ third: Giraffe
+Albert Glaze:
+ first: Zozobra
+ second: ObanKoban
+ third: MiCasa
+Daniel Mckeon:
+ first: MiCasa
+ second: MeatBarExpress
+ third: Zozobra
+Billy Gallagher:
+ first: MeatBarExpress
+ second: McDonalds
+ third: Liv
+Debbie Adams:
+ first: Zozobra
+ second: HumusEliahu
+ third: MeatBarExpress
+Jennifer Smoot:
+ first: MeatBarExpress
+ second: MiCasa
+ third: KingGeorge
+Jeremy Hunter:
+ first: Giraffe
+ second: Liv
+ third: ObanKoban
+Raymond Nobles:
+ first: HumusEliahu
+ second: Zozobra
+ third: KingGeorge
+Joseph Kilgore:
+ first: Liv
+ second: MeatBarExpress
+ third: MiCasa
+Herb Fogel:
+ first: Zozobra
+ second: Gutte
+ third: McDonalds
+Gene Ingram:
+ first: Zozobra
+ second: Jems
+ third: HumusEliahu
+Doyle Hamilton:
+ first: Liv
+ second: Giraffe
+ third: KingGeorge
+Larry Rameau:
+ first: KingGeorge
+ second: HumusEliahu
+ third: ObanKoban
+Jared Black:
+ first: Jems
+ second: Giraffe
+ third: KingGeorge
+Steven Maddox:
+ first: ObanKoban
+ second: McDonalds
+ third: HumusEliahu
+Ana Anderson:
+ first: MeatBarExpress
+ second: HumusEliahu
+ third: Zozobra
+Lillie Dillard:
+ first: Gutte
+ second: MiCasa
+ third: Liv
+Robert Hammond:
+ first: McDonalds
+ second: Liv
+ third: HumusEliahu
+Gertrude Mcpeak:
+ first: Zozobra
+ second: Jems
+ third: MiCasa
+Helen Brock:
+ first: Liv
+ second: HumusEliahu
+ third: Giraffe
+Adrienne Robinson:
+ first: KingGeorge
+ second: Giraffe
+ third: MeatBarExpress
+Wallace Santos:
+ first: Liv
+ second: Giraffe
+ third: Jems
+Janelle Rivera:
+ first: Giraffe
+ second: ObanKoban
+ third: MiCasa
+Hazel Palmer:
+ first: ObanKoban
+ second: Liv
+ third: MeatBarExpress
+John Grose:
+ first: MeatBarExpress
+ second: ObanKoban
+ third: HumusEliahu
+Daniel Citizen:
+ first: Gutte
+ second: HumusEliahu
+ third: ObanKoban
+Mary Hardin:
+ first: Jems
+ second: MiCasa
+ third: Giraffe
+Jennifer Roth:
+ first: McDonalds
+ second: Jems
+ third: HumusEliahu
+Tabatha Logue:
+ first: KingGeorge
+ second: ObanKoban
+ third: Jems
+Joshua Norberg:
+ first: KingGeorge
+ second: McDonalds
+ third: Zozobra
+Jennifer Kampman:
+ first: Gutte
+ second: Jems
+ third: Giraffe
+Adam Howard:
+ first: Jems
+ second: ObanKoban
+ third: McDonalds
+Mary Scheid:
+ first: KingGeorge
+ second: Zozobra
+ third: Gutte
+Benjamin Berry:
+ first: Zozobra
+ second: McDonalds
+ third: Liv
+Jonathan Brauer:
+ first: Gutte
+ second: Jems
+ third: MiCasa
+Charlotte Sollenberger:
+ first: MiCasa
+ second: HumusEliahu
+ third: Zozobra
+William Johnson:
+ first: Liv
+ second: Gutte
+ third: Giraffe
+Liberty Edmond:
+ first: McDonalds
+ second: MeatBarExpress
+ third: Gutte
+Scott Ferreira:
+ first: Giraffe
+ second: MeatBarExpress
+ third: ObanKoban
+Ja Graves:
+ first: MiCasa
+ second: Zozobra
+ third: HumusEliahu
+Margaret Lafountain:
+ first: Giraffe
+ second: KingGeorge
+ third: Jems
+Lena Cowan:
+ first: Zozobra
+ second: ObanKoban
+ third: Jems
+Diane Hewitt:
+ first: ObanKoban
+ second: Jems
+ third: HumusEliahu
+Meta Schwab:
+ first: Giraffe
+ second: MiCasa
+ third: McDonalds
+Sanford Wallace:
+ first: Zozobra
+ second: ObanKoban
+ third: Liv
+Michele Sawinski:
+ first: ObanKoban
+ second: Zozobra
+ third: Liv
+Nicholas Tooley:
+ first: MeatBarExpress
+ second: Jems
+ third: Liv
+Tomas Putnam:
+ first: Jems
+ second: HumusEliahu
+ third: MeatBarExpress
+Brett Campbell:
+ first: Giraffe
+ second: Jems
+ third: McDonalds
+Kimberly Wilda:
+ first: Jems
+ second: McDonalds
+ third: KingGeorge
+Maria Wilson:
+ first: Giraffe
+ second: Gutte
+ third: Liv
+Janet Moore:
+ first: HumusEliahu
+ second: Zozobra
+ third: McDonalds
+Adrian Cohen:
+ first: Gutte
+ second: MeatBarExpress
+ third: Zozobra
+Donna Blair:
+ first: MiCasa
+ second: Jems
+ third: MeatBarExpress
+Allen Johnson:
+ first: ObanKoban
+ second: Jems
+ third: MiCasa
+Karen Grady:
+ first: Jems
+ second: Giraffe
+ third: Gutte
+Angelo Brown:
+ first: Gutte
+ second: KingGeorge
+ third: MiCasa
+Floretta Friend:
+ first: KingGeorge
+ second: Gutte
+ third: Giraffe
+Francis Castle:
+ first: ObanKoban
+ second: KingGeorge
+ third: MiCasa
+Regina Woodall:
+ first: Jems
+ second: ObanKoban
+ third: Gutte
+Melvin Klopfenstein:
+ first: MiCasa
+ second: KingGeorge
+ third: Giraffe
+Erin Habegger:
+ first: KingGeorge
+ second: Giraffe
+ third: MiCasa
+Andrew Brummett:
+ first: KingGeorge
+ second: MiCasa
+ third: McDonalds
+Lois Alfaro:
+ first: Liv
+ second: KingGeorge
+ third: Giraffe
+Sarah Wilson:
+ first: Giraffe
+ second: MiCasa
+ third: Zozobra
+Darla Poppel:
+ first: ObanKoban
+ second: KingGeorge
+ third: Giraffe
+Marlene Foy:
+ first: Gutte
+ second: ObanKoban
+ third: HumusEliahu
+Majorie Reando:
+ first: ObanKoban
+ second: KingGeorge
+ third: MeatBarExpress
+Joseph Chesley:
+ first: Giraffe
+ second: Gutte
+ third: Liv
+Archie Robinson:
+ first: KingGeorge
+ second: Giraffe
+ third: MiCasa
+Lee Taylor:
+ first: ObanKoban
+ second: Jems
+ third: Gutte
+Mae White:
+ first: Gutte
+ second: Jems
+ third: McDonalds
+Kimberly Burke:
+ first: KingGeorge
+ second: Jems
+ third: Liv
+Eleanor Baskin:
+ first: MeatBarExpress
+ second: Liv
+ third: Gutte
+Patricia Ashton:
+ first: Zozobra
+ second: Gutte
+ third: KingGeorge
+Irene Noel:
+ first: Jems
+ second: ObanKoban
+ third: HumusEliahu
+Ernest Love:
+ first: KingGeorge
+ second: MiCasa
+ third: ObanKoban
+Evelyn Spurlock:
+ first: KingGeorge
+ second: Gutte
+ third: Zozobra
+Brandy Wright:
+ first: Gutte
+ second: Zozobra
+ third: MiCasa
+Troy Larson:
+ first: MiCasa
+ second: KingGeorge
+ third: Zozobra
+Sharon Sackett:
+ first: McDonalds
+ second: Giraffe
+ third: MiCasa
+Robert Beyer:
+ first: Zozobra
+ second: KingGeorge
+ third: Liv
+Tracy Mccarthy:
+ first: KingGeorge
+ second: MeatBarExpress
+ third: McDonalds
+Alfred Hayes:
+ first: HumusEliahu
+ second: Giraffe
+ third: MiCasa
+Daniel Belcher:
+ first: MiCasa
+ second: Jems
+ third: Gutte
+Beatrice Fassino:
+ first: HumusEliahu
+ second: MeatBarExpress
+ third: ObanKoban
+Benjamin Lewis:
+ first: ObanKoban
+ second: Gutte
+ third: Zozobra
+Leona Nettles:
+ first: MiCasa
+ second: KingGeorge
+ third: Gutte
+Jennifer Groll:
+ first: KingGeorge
+ second: ObanKoban
+ third: Jems
+William Pollard:
+ first: Gutte
+ second: MeatBarExpress
+ third: Zozobra
+Samuel Adams:
+ first: Jems
+ second: Gutte
+ third: Zozobra
+Rebecca Gallipeau:
+ first: HumusEliahu
+ second: KingGeorge
+ third: ObanKoban
+Tomas Nemerofsky:
+ first: MiCasa
+ second: Gutte
+ third: Giraffe
+Nancy Paya:
+ first: HumusEliahu
+ second: MeatBarExpress
+ third: Liv
+Jacqueline Hamel:
+ first: Gutte
+ second: HumusEliahu
+ third: Giraffe
+Jimmie Barker:
+ first: MeatBarExpress
+ second: MiCasa
+ third: McDonalds
+John Choate:
+ first: ObanKoban
+ second: Zozobra
+ third: Liv
+Sarah Rhodes:
+ first: McDonalds
+ second: Jems
+ third: Zozobra
+Antonio Burr:
+ first: MeatBarExpress
+ second: MiCasa
+ third: ObanKoban
+Lillian Hoover:
+ first: HumusEliahu
+ second: McDonalds
+ third: KingGeorge
+Matthew Forrester:
+ first: HumusEliahu
+ second: MeatBarExpress
+ third: Liv
+Luis Pully:
+ first: KingGeorge
+ second: ObanKoban
+ third: Liv
+John Rivera:
+ first: Zozobra
+ second: Gutte
+ third: Giraffe
+Robert Reinke:
+ first: ObanKoban
+ second: Giraffe
+ third: HumusEliahu
+Jacqueline Kasack:
+ first: MiCasa
+ second: Giraffe
+ third: Zozobra
+Glen Williams:
+ first: Zozobra
+ second: MeatBarExpress
+ third: McDonalds
+Mary Freeman:
+ first: Giraffe
+ second: MiCasa
+ third: Liv
+Susan Terrell:
+ first: HumusEliahu
+ second: Jems
+ third: McDonalds
+Don Killian:
+ first: Jems
+ second: KingGeorge
+ third: Giraffe
+Sonia Burnstein:
+ first: Zozobra
+ second: Gutte
+ third: MeatBarExpress
+Christian Little:
+ first: ObanKoban
+ second: McDonalds
+ third: HumusEliahu
+Janet Valdez:
+ first: MiCasa
+ second: KingGeorge
+ third: ObanKoban
+Dolly Ballew:
+ first: Liv
+ second: ObanKoban
+ third: Giraffe
+Nicholas Cheek:
+ first: McDonalds
+ second: MiCasa
+ third: Liv
+Nancy Duvall:
+ first: Zozobra
+ second: Gutte
+ third: McDonalds
+John Jones:
+ first: McDonalds
+ second: Liv
+ third: ObanKoban
+Jessica Marin:
+ first: MiCasa
+ second: HumusEliahu
+ third: KingGeorge
+Gerald Wilson:
+ first: Zozobra
+ second: MeatBarExpress
+ third: Giraffe
+Donna Lalk:
+ first: MeatBarExpress
+ second: Zozobra
+ third: ObanKoban
+Orville Leggett:
+ first: Giraffe
+ second: Liv
+ third: Jems
+Daniel Bedward:
+ first: HumusEliahu
+ second: KingGeorge
+ third: Jems
+Lynda Horne:
+ first: MeatBarExpress
+ second: Jems
+ third: Giraffe
+Rosaura James:
+ first: McDonalds
+ second: Gutte
+ third: Zozobra
+Kenneth Camp:
+ first: Giraffe
+ second: KingGeorge
+ third: Gutte
+Hal Sanders:
+ first: MeatBarExpress
+ second: KingGeorge
+ third: Zozobra
+William Gipe:
+ first: MiCasa
+ second: MeatBarExpress
+ third: Jems
+Anthony Kellison:
+ first: MeatBarExpress
+ second: Zozobra
+ third: MiCasa
+Jason Taylor:
+ first: KingGeorge
+ second: MeatBarExpress
+ third: ObanKoban
+Janice Hartzell:
+ first: McDonalds
+ second: MiCasa
+ third: HumusEliahu
+Marie Lee:
+ first: HumusEliahu
+ second: McDonalds
+ third: Giraffe
+Judy Muncy:
+ first: MiCasa
+ second: MeatBarExpress
+ third: ObanKoban
+Anthony Rogers:
+ first: MeatBarExpress
+ second: ObanKoban
+ third: Zozobra
+Sandi Crawford:
+ first: Jems
+ second: MiCasa
+ third: Liv
+Robert Hein:
+ first: Gutte
+ second: Jems
+ third: KingGeorge
+Faith Taylor:
+ first: ObanKoban
+ second: Jems
+ third: McDonalds
+Martin Sulik:
+ first: KingGeorge
+ second: Jems
+ third: MiCasa
+Clifton White:
+ first: McDonalds
+ second: ObanKoban
+ third: Jems
+Frederick Webb:
+ first: Jems
+ second: Gutte
+ third: McDonalds
+Leland Kibbe:
+ first: KingGeorge
+ second: MiCasa
+ third: Liv
+Sheena Nix:
+ first: ObanKoban
+ second: MiCasa
+ third: MeatBarExpress
+Irene Lamp:
+ first: ObanKoban
+ second: Zozobra
+ third: Giraffe
+Thelma Hammons:
+ first: Giraffe
+ second: Liv
+ third: Jems
+Julie Fabian:
+ first: Jems
+ second: Giraffe
+ third: Gutte
+Christina Williams:
+ first: Giraffe
+ second: HumusEliahu
+ third: Zozobra
+Jewel Sitar:
+ first: ObanKoban
+ second: Giraffe
+ third: McDonalds
+James Belz:
+ first: Zozobra
+ second: McDonalds
+ third: KingGeorge
+John Evans:
+ first: Zozobra
+ second: McDonalds
+ third: HumusEliahu
+Debby May:
+ first: Zozobra
+ second: McDonalds
+ third: Giraffe
+William Pratt:
+ first: Gutte
+ second: MeatBarExpress
+ third: Giraffe
+Charles Tucker:
+ first: ObanKoban
+ second: HumusEliahu
+ third: KingGeorge
+Dan Mayer:
+ first: Jems
+ second: Zozobra
+ third: Liv
+Sonny Lalley:
+ first: Giraffe
+ second: ObanKoban
+ third: KingGeorge
+Christina Marlatt:
+ first: ObanKoban
+ second: KingGeorge
+ third: MeatBarExpress
+Myra Mcclard:
+ first: Gutte
+ second: Giraffe
+ third: Jems
+Mary Skipper:
+ first: ObanKoban
+ second: HumusEliahu
+ third: MiCasa
+George Erbst:
+ first: Giraffe
+ second: MeatBarExpress
+ third: McDonalds
+Dana Shaw:
+ first: Zozobra
+ second: KingGeorge
+ third: MeatBarExpress
+Beatrice Peterson:
+ first: KingGeorge
+ second: HumusEliahu
+ third: Jems
+Mitchell Anderson:
+ first: McDonalds
+ second: HumusEliahu
+ third: Zozobra
+George Schlenz:
+ first: Gutte
+ second: Giraffe
+ third: KingGeorge
+Lisa Pate:
+ first: Gutte
+ second: HumusEliahu
+ third: MiCasa
+Deanna Mortimer:
+ first: Jems
+ second: ObanKoban
+ third: McDonalds
+Carol Martinez:
+ first: McDonalds
+ second: HumusEliahu
+ third: Liv
+Patrick Hutcherson:
+ first: Liv
+ second: McDonalds
+ third: ObanKoban
+Corazon Reyes:
+ first: KingGeorge
+ second: ObanKoban
+ third: MiCasa
+Scott Bennet:
+ first: ObanKoban
+ second: HumusEliahu
+ third: MiCasa
+Summer Cassidy:
+ first: Jems
+ second: Zozobra
+ third: MiCasa
+Robert Hamilton:
+ first: MiCasa
+ second: MeatBarExpress
+ third: Liv
+Tammy Cannon:
+ first: Zozobra
+ second: KingGeorge
+ third: Gutte
+Todd May:
+ first: MeatBarExpress
+ second: ObanKoban
+ third: Liv
+Brian Reinhold:
+ first: MiCasa
+ second: HumusEliahu
+ third: KingGeorge
+Larry Thurn:
+ first: Jems
+ second: Giraffe
+ third: MeatBarExpress
+Shawn Barfield:
+ first: MiCasa
+ second: Zozobra
+ third: Jems
+Christine Kuboushek:
+ first: ObanKoban
+ second: Zozobra
+ third: Gutte
+Maria Simpson:
+ first: McDonalds
+ second: Zozobra
+ third: Liv
+John Johnson:
+ first: MiCasa
+ second: MeatBarExpress
+ third: Gutte
+John Potts:
+ first: Gutte
+ second: McDonalds
+ third: ObanKoban
+Fernando Scott:
+ first: MeatBarExpress
+ second: HumusEliahu
+ third: Gutte
+Darlene Clark:
+ first: KingGeorge
+ second: ObanKoban
+ third: Zozobra
+Jerry Hedges:
+ first: Jems
+ second: Gutte
+ third: McDonalds
+Jerry Rifenbark:
+ first: KingGeorge
+ second: Jems
+ third: MiCasa
+Irene Coley:
+ first: MiCasa
+ second: KingGeorge
+ third: Gutte
+Shirley Mendieta:
+ first: HumusEliahu
+ second: MeatBarExpress
+ third: Zozobra
+Michael Reed:
+ first: MeatBarExpress
+ second: Liv
+ third: KingGeorge
+John Allen:
+ first: KingGeorge
+ second: ObanKoban
+ third: MiCasa
+Judie Withers:
+ first: MeatBarExpress
+ second: McDonalds
+ third: Zozobra
+Roland Zavala:
+ first: Jems
+ second: Liv
+ third: McDonalds
+Lawrence Jarvis:
+ first: MeatBarExpress
+ second: MiCasa
+ third: KingGeorge
+Dora Hill:
+ first: MeatBarExpress
+ second: HumusEliahu
+ third: Gutte
+Jay Oliphant:
+ first: Zozobra
+ second: McDonalds
+ third: Giraffe
+Gregg Clifford:
+ first: Giraffe
+ second: MiCasa
+ third: MeatBarExpress
+Keith Geyer:
+ first: KingGeorge
+ second: Giraffe
+ third: Zozobra
+April Spina:
+ first: MiCasa
+ second: HumusEliahu
+ third: McDonalds
+Windy Plaisted:
+ first: Gutte
+ second: Jems
+ third: McDonalds
+Charles Whitley:
+ first: MiCasa
+ second: Giraffe
+ third: Jems
+Ariel Avila:
+ first: MiCasa
+ second: Jems
+ third: McDonalds
+Patricia Allen:
+ first: MiCasa
+ second: Giraffe
+ third: ObanKoban
+Maritza Mccullough:
+ first: KingGeorge
+ second: HumusEliahu
+ third: Gutte
+Rebecca Hale:
+ first: Giraffe
+ second: MiCasa
+ third: MeatBarExpress
+Philomena August:
+ first: ObanKoban
+ second: HumusEliahu
+ third: Liv
+William Honda:
+ first: HumusEliahu
+ second: MeatBarExpress
+ third: Gutte
+Annette Prince:
+ first: Giraffe
+ second: McDonalds
+ third: ObanKoban
+Michael Wolfram:
+ first: Jems
+ second: Liv
+ third: ObanKoban
+Stephen Gordon:
+ first: MeatBarExpress
+ second: Jems
+ third: Liv
+Rita Rauf:
+ first: ObanKoban
+ second: KingGeorge
+ third: HumusEliahu
+Russell Baker:
+ first: Zozobra
+ second: Giraffe
+ third: HumusEliahu
+Heather Newborn:
+ first: ObanKoban
+ second: Liv
+ third: McDonalds
+Joyce Lange:
+ first: Zozobra
+ second: McDonalds
+ third: Liv
+Virginia Dinkens:
+ first: Liv
+ second: MiCasa
+ third: ObanKoban
+Dawn Chambers:
+ first: HumusEliahu
+ second: Gutte
+ third: McDonalds
+David Molloy:
+ first: Zozobra
+ second: Liv
+ third: MeatBarExpress
+Denise Lashley:
+ first: Zozobra
+ second: Gutte
+ third: MeatBarExpress
+Frank Ward:
+ first: Gutte
+ second: KingGeorge
+ third: McDonalds
+Theodore Montanez:
+ first: Zozobra
+ second: KingGeorge
+ third: HumusEliahu
+Jesse Ashmore:
+ first: Giraffe
+ second: MeatBarExpress
+ third: Zozobra
+Marcos Jackson:
+ first: Jems
+ second: Gutte
+ third: KingGeorge
+Angelina Crane:
+ first: MeatBarExpress
+ second: Zozobra
+ third: MiCasa
+Maria Grillo:
+ first: KingGeorge
+ second: Jems
+ third: Giraffe
+Dewayne Harp:
+ first: HumusEliahu
+ second: Giraffe
+ third: MeatBarExpress
+Matthew Stoll:
+ first: KingGeorge
+ second: McDonalds
+ third: Jems
+Joshua Martin:
+ first: Jems
+ second: Zozobra
+ third: MiCasa
+Alan Mandala:
+ first: ObanKoban
+ second: MeatBarExpress
+ third: Liv
+Rafael Zurasky:
+ first: MeatBarExpress
+ second: KingGeorge
+ third: Gutte
+Rosella Bailey:
+ first: ObanKoban
+ second: Zozobra
+ third: Jems
+Julie Mccoy:
+ first: Zozobra
+ second: Gutte
+ third: HumusEliahu
+Richard Essex:
+ first: Gutte
+ second: Zozobra
+ third: Liv
+Debra Bogdan:
+ first: KingGeorge
+ second: ObanKoban
+ third: MeatBarExpress
+Marjorie Robles:
+ first: ObanKoban
+ second: McDonalds
+ third: Liv
+Gabriel Navarro:
+ first: MeatBarExpress
+ second: ObanKoban
+ third: KingGeorge
+Bruce Oliver:
+ first: Giraffe
+ second: Jems
+ third: Gutte
+Ardell Heinemann:
+ first: Zozobra
+ second: McDonalds
+ third: Gutte
+Heather Williams:
+ first: Zozobra
+ second: KingGeorge
+ third: Giraffe
+Gloria Doering:
+ first: Gutte
+ second: MiCasa
+ third: Giraffe
+Matthew Barton:
+ first: Liv
+ second: KingGeorge
+ third: Giraffe
+Melanie Krajcer:
+ first: Giraffe
+ second: MiCasa
+ third: Zozobra
+Lenore White:
+ first: Gutte
+ second: ObanKoban
+ third: Jems
+Angelo Pope:
+ first: Liv
+ second: Giraffe
+ third: McDonalds
+Brian Pratt:
+ first: KingGeorge
+ second: ObanKoban
+ third: MiCasa
+Richard Coulson:
+ first: Zozobra
+ second: MeatBarExpress
+ third: HumusEliahu
+Nancy Ray:
+ first: Zozobra
+ second: McDonalds
+ third: Giraffe
+Bradley Kirby:
+ first: HumusEliahu
+ second: Giraffe
+ third: ObanKoban
+Tonya Morgan:
+ first: MeatBarExpress
+ second: Liv
+ third: KingGeorge
+Jeffrey Fields:
+ first: Giraffe
+ second: MeatBarExpress
+ third: MiCasa
+Jacqulyn Gulley:
+ first: ObanKoban
+ second: Gutte
+ third: MeatBarExpress
+James Smith:
+ first: Liv
+ second: KingGeorge
+ third: MiCasa
+Victoria Walker:
+ first: ObanKoban
+ second: MiCasa
+ third: Jems
+Carl Berard:
+ first: MiCasa
+ second: Jems
+ third: MeatBarExpress
+Christopher Taylor:
+ first: McDonalds
+ second: HumusEliahu
+ third: Zozobra
+Jackie Keels:
+ first: MeatBarExpress
+ second: Liv
+ third: McDonalds
+Richard Smith:
+ first: Gutte
+ second: MeatBarExpress
+ third: ObanKoban
+Florence Chaney:
+ first: Giraffe
+ second: MiCasa
+ third: McDonalds
+April Webb:
+ first: Giraffe
+ second: Jems
+ third: KingGeorge
+Lisa House:
+ first: MeatBarExpress
+ second: MiCasa
+ third: Giraffe
+James Wynn:
+ first: MiCasa
+ second: Jems
+ third: McDonalds
+Bette Rochon:
+ first: HumusEliahu
+ second: KingGeorge
+ third: Giraffe
+Jason Mcilvaine:
+ first: McDonalds
+ second: MeatBarExpress
+ third: Giraffe
+Bruce Mccarty:
+ first: KingGeorge
+ second: MiCasa
+ third: Jems
+Mark Rodgers:
+ first: MeatBarExpress
+ second: Zozobra
+ third: MiCasa
+Wallace Nichols:
+ first: Giraffe
+ second: Jems
+ third: MiCasa
+Carl Desotel:
+ first: Gutte
+ second: Jems
+ third: Giraffe
+Felipe Nielsen:
+ first: Gutte
+ second: MiCasa
+ third: McDonalds
+Pedro Weber:
+ first: Liv
+ second: KingGeorge
+ third: Zozobra
+Carrie Benavides:
+ first: HumusEliahu
+ second: ObanKoban
+ third: Giraffe
+Barbara Barrett:
+ first: Jems
+ second: KingGeorge
+ third: Gutte
+Mike Warren:
+ first: Gutte
+ second: Liv
+ third: MiCasa
+Alejandro Johnson:
+ first: Liv
+ second: Giraffe
+ third: ObanKoban
+Mario Allison:
+ first: MiCasa
+ second: ObanKoban
+ third: Jems
+Roger Rollin:
+ first: MiCasa
+ second: ObanKoban
+ third: MeatBarExpress
+Brian White:
+ first: McDonalds
+ second: MiCasa
+ third: Giraffe
+Tricia Thrasher:
+ first: MeatBarExpress
+ second: Zozobra
+ third: ObanKoban
+Robert Kidd:
+ first: McDonalds
+ second: ObanKoban
+ third: MiCasa
+Timothy Wertz:
+ first: MiCasa
+ second: Gutte
+ third: Jems
+Willie Mattson:
+ first: KingGeorge
+ second: Liv
+ third: ObanKoban
+Mary Feliciano:
+ first: Liv
+ second: Giraffe
+ third: ObanKoban
+Donald Dziuba:
+ first: Zozobra
+ second: MiCasa
+ third: McDonalds
+Katherine Richardson:
+ first: Giraffe
+ second: MiCasa
+ third: MeatBarExpress
+Kelsey Toomey:
+ first: HumusEliahu
+ second: Jems
+ third: Zozobra
+Margaret Defir:
+ first: Zozobra
+ second: MiCasa
+ third: MeatBarExpress
+Gordon Stevens:
+ first: MiCasa
+ second: Jems
+ third: Zozobra
+Phillip Martin:
+ first: McDonalds
+ second: KingGeorge
+ third: Giraffe
+Brent Wilson:
+ first: ObanKoban
+ second: Jems
+ third: HumusEliahu
+Gilbert Murry:
+ first: HumusEliahu
+ second: MeatBarExpress
+ third: Jems
+Gloria Potthoff:
+ first: Liv
+ second: ObanKoban
+ third: MiCasa
+Joseph Martinez:
+ first: Jems
+ second: MeatBarExpress
+ third: MiCasa
+Albert Gish:
+ first: McDonalds
+ second: Gutte
+ third: HumusEliahu
+Eloise Austin:
+ first: Giraffe
+ second: ObanKoban
+ third: Zozobra
+Pauline Ewing:
+ first: MiCasa
+ second: Gutte
+ third: KingGeorge
+Michelle Baker:
+ first: Giraffe
+ second: Gutte
+ third: Zozobra
+Michael Reyes:
+ first: HumusEliahu
+ second: Gutte
+ third: MeatBarExpress
+Laura Carrell:
+ first: Zozobra
+ second: MeatBarExpress
+ third: McDonalds
+Maria Clark:
+ first: Liv
+ second: Giraffe
+ third: Zozobra
+Tony Gentry:
+ first: MeatBarExpress
+ second: Gutte
+ third: Liv
+Lisa Bueno:
+ first: HumusEliahu
+ second: Giraffe
+ third: Liv
+Sandra Feucht:
+ first: Liv
+ second: ObanKoban
+ third: Giraffe
+Ellen Davis:
+ first: MiCasa
+ second: KingGeorge
+ third: Zozobra
+Steven Green:
+ first: MiCasa
+ second: Giraffe
+ third: McDonalds
+Ashanti Corathers:
+ first: Jems
+ second: KingGeorge
+ third: MiCasa
+Felicita Wittstock:
+ first: Gutte
+ second: MeatBarExpress
+ third: ObanKoban
+Sylvester Savage:
+ first: ObanKoban
+ second: KingGeorge
+ third: Giraffe
+Thomas Hostetler:
+ first: Gutte
+ second: HumusEliahu
+ third: MiCasa
+Nancy Nilsson:
+ first: ObanKoban
+ second: Jems
+ third: Gutte
+Lester Ortega:
+ first: HumusEliahu
+ second: Liv
+ third: MeatBarExpress
+Erma Butler:
+ first: MeatBarExpress
+ second: HumusEliahu
+ third: McDonalds
+Vergie Foody:
+ first: Liv
+ second: Zozobra
+ third: Giraffe
+Phyllis Kuehn:
+ first: MiCasa
+ second: Giraffe
+ third: Jems
+Jerry Tackett:
+ first: Zozobra
+ second: HumusEliahu
+ third: Giraffe
+Robert Carrillo:
+ first: Jems
+ second: HumusEliahu
+ third: KingGeorge
+William Luther:
+ first: KingGeorge
+ second: Liv
+ third: MiCasa
+Larissa Corwin:
+ first: HumusEliahu
+ second: MiCasa
+ third: McDonalds
+Marta White:
+ first: McDonalds
+ second: KingGeorge
+ third: MiCasa
+Domingo Green:
+ first: McDonalds
+ second: HumusEliahu
+ third: KingGeorge
+Lezlie Hooker:
+ first: Giraffe
+ second: Jems
+ third: Gutte
+Brittany Steele:
+ first: Gutte
+ second: Liv
+ third: MiCasa
+Randall Porter:
+ first: MiCasa
+ second: Gutte
+ third: Giraffe
+Kimberly Robertson:
+ first: McDonalds
+ second: ObanKoban
+ third: HumusEliahu
+Doris Mccracken:
+ first: MiCasa
+ second: Gutte
+ third: MeatBarExpress
+Enrique Crouch:
+ first: McDonalds
+ second: MiCasa
+ third: Gutte
+Wanda Dunford:
+ first: Giraffe
+ second: Zozobra
+ third: Liv
+Doris Hamilton:
+ first: Liv
+ second: KingGeorge
+ third: HumusEliahu
+Sheila Ludgate:
+ first: KingGeorge
+ second: HumusEliahu
+ third: MiCasa
+James Blanding:
+ first: ObanKoban
+ second: MiCasa
+ third: HumusEliahu
+Barney Dooley:
+ first: ObanKoban
+ second: MeatBarExpress
+ third: Giraffe
+Charles Lopez:
+ first: Giraffe
+ second: MeatBarExpress
+ third: Jems
+Courtney Whitley:
+ first: Zozobra
+ second: Liv
+ third: Gutte
+Clinton Bobrow:
+ first: ObanKoban
+ second: Liv
+ third: KingGeorge
+Marion Lebeouf:
+ first: McDonalds
+ second: MeatBarExpress
+ third: ObanKoban
+Nora Conner:
+ first: MeatBarExpress
+ second: Giraffe
+ third: Gutte
+Jayne Baker:
+ first: KingGeorge
+ second: MeatBarExpress
+ third: MiCasa
+John Quintero:
+ first: McDonalds
+ second: Gutte
+ third: MeatBarExpress
+Kim Chadwick:
+ first: MiCasa
+ second: Liv
+ third: KingGeorge
+Maria Bryan:
+ first: KingGeorge
+ second: HumusEliahu
+ third: McDonalds
+Maria Thielman:
+ first: HumusEliahu
+ second: Zozobra
+ third: McDonalds
+Roland Barber:
+ first: Giraffe
+ second: MiCasa
+ third: Gutte
+Amy Manalo:
+ first: McDonalds
+ second: Gutte
+ third: KingGeorge
+Adam Priolean:
+ first: Liv
+ second: HumusEliahu
+ third: ObanKoban
+Jose Gray:
+ first: MeatBarExpress
+ second: Zozobra
+ third: McDonalds
+Douglas Rattan:
+ first: McDonalds
+ second: KingGeorge
+ third: Jems
+Curtis Ingle:
+ first: KingGeorge
+ second: Liv
+ third: ObanKoban
+Diane Schmidgall:
+ first: KingGeorge
+ second: MiCasa
+ third: MeatBarExpress
+William Mcquay:
+ first: MeatBarExpress
+ second: MiCasa
+ third: Zozobra
+Geraldine Tanaka:
+ first: Jems
+ second: KingGeorge
+ third: HumusEliahu
+Juan Mattox:
+ first: Gutte
+ second: Liv
+ third: HumusEliahu
+Aron Blackmon:
+ first: McDonalds
+ second: Liv
+ third: MiCasa
+James Robert:
+ first: McDonalds
+ second: Jems
+ third: Liv
+Enoch Powell:
+ first: Gutte
+ second: Jems
+ third: MiCasa
+Bruce Lambert:
+ first: Liv
+ second: KingGeorge
+ third: MiCasa
+Richard Menjivar:
+ first: ObanKoban
+ second: McDonalds
+ third: Jems
+Theodore Cummings:
+ first: HumusEliahu
+ second: McDonalds
+ third: Gutte
+Donald Mcfarling:
+ first: MiCasa
+ second: KingGeorge
+ third: HumusEliahu
+Essie Davis:
+ first: Giraffe
+ second: Jems
+ third: KingGeorge
+Solomon Walker:
+ first: ObanKoban
+ second: Giraffe
+ third: Liv
+Sue Willis:
+ first: MeatBarExpress
+ second: McDonalds
+ third: Liv
+Patrick Hernandez:
+ first: ObanKoban
+ second: Giraffe
+ third: KingGeorge
+Tamika Cooper:
+ first: Jems
+ second: MeatBarExpress
+ third: MiCasa
+Jerry Watkins:
+ first: ObanKoban
+ second: HumusEliahu
+ third: Zozobra
+Phillip Duskey:
+ first: MiCasa
+ second: Zozobra
+ third: Liv
+Robert Santacruz:
+ first: Jems
+ second: Liv
+ third: HumusEliahu
+Richard Denson:
+ first: MiCasa
+ second: ObanKoban
+ third: Liv
+Shawn Long:
+ first: Liv
+ second: Zozobra
+ third: HumusEliahu
+Marcos Gillespie:
+ first: ObanKoban
+ second: Gutte
+ third: MiCasa
+Linda Trimarchi:
+ first: ObanKoban
+ second: Giraffe
+ third: KingGeorge
+Cynthia Shull:
+ first: HumusEliahu
+ second: Gutte
+ third: ObanKoban
+John Bonner:
+ first: Giraffe
+ second: KingGeorge
+ third: Gutte
+Thomas Winton:
+ first: ObanKoban
+ second: HumusEliahu
+ third: MiCasa
+Laurie Hitt:
+ first: MiCasa
+ second: KingGeorge
+ third: ObanKoban
+Joseph Duppstadt:
+ first: ObanKoban
+ second: Zozobra
+ third: MeatBarExpress
+Frederick Thompson:
+ first: Gutte
+ second: Zozobra
+ third: MiCasa
+Shirley Snow:
+ first: Zozobra
+ second: Giraffe
+ third: HumusEliahu
+Sabrina Mohr:
+ first: Jems
+ second: Giraffe
+ third: Gutte
+James Covert:
+ first: HumusEliahu
+ second: KingGeorge
+ third: McDonalds
+Edgar Richardson:
+ first: MiCasa
+ second: Liv
+ third: MeatBarExpress
+Joyce Langley:
+ first: Zozobra
+ second: Gutte
+ third: MiCasa
+Alicia Hickey:
+ first: Giraffe
+ second: Jems
+ third: KingGeorge
+Kimberly Janssen:
+ first: McDonalds
+ second: HumusEliahu
+ third: ObanKoban
+James Shiflet:
+ first: Jems
+ second: Gutte
+ third: KingGeorge
+Windy Babineau:
+ first: Jems
+ second: Giraffe
+ third: HumusEliahu
+Samantha Jackson:
+ first: Gutte
+ second: McDonalds
+ third: ObanKoban
+Edna Thompson:
+ first: Zozobra
+ second: Giraffe
+ third: Gutte
+Violet Kassing:
+ first: McDonalds
+ second: ObanKoban
+ third: Gutte
+Audrey Hayes:
+ first: KingGeorge
+ second: ObanKoban
+ third: Giraffe
+Betsy Lewis:
+ first: ObanKoban
+ second: Jems
+ third: HumusEliahu
+Irene Gonzales:
+ first: ObanKoban
+ second: Giraffe
+ third: KingGeorge
+Kandy Whitney:
+ first: Jems
+ second: McDonalds
+ third: Liv
+Nancy Jones:
+ first: Giraffe
+ second: McDonalds
+ third: ObanKoban
+Luther Mitchell:
+ first: Zozobra
+ second: Liv
+ third: Giraffe
+Kenneth Sandhu:
+ first: KingGeorge
+ second: ObanKoban
+ third: Zozobra
+Nicole Ellis:
+ first: ObanKoban
+ second: McDonalds
+ third: Jems
+Michele Crosson:
+ first: MiCasa
+ second: HumusEliahu
+ third: ObanKoban
