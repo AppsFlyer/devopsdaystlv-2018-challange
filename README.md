@@ -3,46 +3,46 @@ Welcome to Appsflyer DevOpsDays Challenge!
 At Appsflyer we have a lot of options for lunch, sometimes its just too many!
 Here is an example of such a conversation our team might have had trying to pick a place to go to eat:
 
-Nancy Swearinger:
- first: KingGeorge
- second: Zozobra
- third: MiCasa
-Janel Kelsheimer:
- first: Gutte
- second: HumusEliahu
- third: ObanKoban
-Hilda King:
- first: KingGeorge
- second: ObanKoban
- third: Giraffe
-Douglas Walker:
- first: KingGeorge
- second: MiCasa
- third: MeatBarExpress
-Linda Christenson:
- first: McDonalds
- second: KingGeorge
- third: Zozobra
-Leslie Mcintyre:
- first: Giraffe
- second: McDonalds
- third: Gutte
-Sandra Dohrman:
- first: Jems
- second: Zozobra
- third: Giraffe
-Adam Dendy:
- first: ObanKoban
- second: McDonalds
- third: HumusEliahu
-Charlotte Dunlap:
- first: MeatBarExpress
- second: MiCasa
- third: HumusEliahu
-Freddie Zunich:
- first: ObanKoban
- second: McDonalds
- third: KingGeorge
+	Nancy Swearinger:
+	 first: KingGeorge
+	 second: Zozobra
+	 third: MiCasa
+	Janel Kelsheimer:
+	 first: Gutte
+	 second: HumusEliahu
+	 third: ObanKoban
+	Hilda King:
+	 first: KingGeorge
+	 second: ObanKoban
+	 third: Giraffe
+	Douglas Walker:
+	 first: KingGeorge
+	 second: MiCasa
+	 third: MeatBarExpress
+	Linda Christenson:
+	 first: McDonalds
+	 second: KingGeorge
+	 third: Zozobra
+	Leslie Mcintyre:
+	 first: Giraffe
+	 second: McDonalds
+	 third: Gutte
+	Sandra Dohrman:
+	 first: Jems
+	 second: Zozobra
+	 third: Giraffe
+	Adam Dendy:
+	 first: ObanKoban
+	 second: McDonalds
+	 third: HumusEliahu
+	Charlotte Dunlap:
+	 first: MeatBarExpress
+	 second: MiCasa
+	 third: HumusEliahu
+	Freddie Zunich:
+	 first: ObanKoban
+	 second: McDonalds
+	 third: KingGeorge
 
 please apply ranked choice voting (https://en.wikipedia.org/wiki/Instant-runoff_voting)
 to the conversation and tell us where will our team eat today!
