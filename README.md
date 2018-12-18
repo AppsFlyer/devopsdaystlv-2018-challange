@@ -55,7 +55,7 @@ parse this conversation: use the attached conversation.txt
 You can use ANYTHING, but you have to be able to explain your code.
 
 Next prize raffle (between people who solved the problem) is at 12, then 15.
-Dataset will change at 12, so pull again.
+DATA SET HAS CHANGED, PULL AGAIN.
 
 The solution is the street number of the address of the selected place which is closest to our Herzeliya office
 
