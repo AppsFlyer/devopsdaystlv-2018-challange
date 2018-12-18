@@ -54,6 +54,8 @@ parse this conversation: use the attached conversation.txt
 
 You can use ANYTHING, but you have to be able to explain your code.
 
+Next prize raffle (between people who solved the problem) is at 12, then 15.
+
 The solution is the street number of the address of the selected place which is closest to our Herzeliya office
 
 please send your code and solution to devops@appsflyer.com
