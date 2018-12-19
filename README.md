@@ -54,8 +54,9 @@ parse this conversation: use the attached conversation.txt
 
 You can use ANYTHING, but you have to be able to explain your code.
 
-Next prize raffle (between people who solved the problem) is at 12, then 15.
-DATA SET HAS CHANGED, PULL AGAIN.
+Next prize raffle (between people who solved the problem) is at 1220, then 1500, then 2 at happy hour..
+DATA SET HAS CHANGED, PULL AGAIN, and will change after each giveaway.
+your code should be able to solve either of them anyway.
 
 The solution is the street number of the address of the selected place which is closest to our Herzeliya office
 
